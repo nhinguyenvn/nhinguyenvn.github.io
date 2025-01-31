@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: "About Me"
+subtitle: "A little about who I am"
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! I'm [Your Name], a Data Science student at CY Tech with a passion for data analysis, visualization, and problem-solving. I specialize in working with tools like Python, R, SQL, and Power BI, where I clean, analyze, and extract insights from data.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### My Story
 
-What else do you need?
+Currently, I am looking for a 4–5 month internship starting in April 2025, where I can apply my skills, contribute to real-world projects, and continue learning in a professional environment.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/yourusername) or check out my [GitHub](https://github.com/yourusername) to see my work!
