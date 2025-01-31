@@ -2,11 +2,11 @@
 layout: post
 title: "My Data Science Journey"
 subtitle: "A glimpse into the projects and skills I've developed"
-cover-img: /assets/img/portfolio-cover.jpg
+cover-img: /assets/img/baclground.jpg
 thumbnail-img: /assets/img/portfolio-thumb.png
 share-img: /assets/img/portfolio-cover.jpg
 tags: [data science, projects, Python, R, SQL, Machine Learning]
-author: [Your Name]
+author: Nhi NGUYEN
 ---
 
 As a **Data Science student at CY Tech**, I’ve developed a passion for using data to solve real-world problems, uncover insights, and drive decision-making. Here’s a selection of the projects that showcase my journey and growth as a data scientist.
