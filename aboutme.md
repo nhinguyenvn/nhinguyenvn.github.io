@@ -4,7 +4,7 @@ title: "About Me"
 subtitle: "A little about who I am"
 ---
 
-Hi! I'm [Your Name], a Data Science student at CY Tech with a passion for data analysis, visualization, and problem-solving. I specialize in working with tools like Python, R, SQL, and Power BI, where I clean, analyze, and extract insights from data.
+Hi! I'm Nhi NGUYEN, a Data Science student at CY Tech with a passion for data analysis, visualization, and problem-solving. I specialize in working with tools like Python, R, SQL, and Power BI, where I clean, analyze, and extract insights from data.
 
 ### My Story
 
