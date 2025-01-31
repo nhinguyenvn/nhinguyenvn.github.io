@@ -1,18 +1,71 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+title: "My Data Science Journey"
+subtitle: "A glimpse into the projects and skills I've developed"
+cover-img: /assets/img/portfolio-cover.jpg
+thumbnail-img: /assets/img/portfolio-thumb.png
+share-img: /assets/img/portfolio-cover.jpg
+tags: [data science, projects, Python, R, SQL, Machine Learning]
+author: [Your Name]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+As a **Data Science student at CY Tech**, I’ve developed a passion for using data to solve real-world problems, uncover insights, and drive decision-making. Here’s a selection of the projects that showcase my journey and growth as a data scientist.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+### Project 1: **Houses in Melbourne**
+**Description:**  
+This project involved analyzing real estate data to predict house prices in Melbourne. Using **Pandas**, **Matplotlib**, and **Seaborn**, I explored trends, cleaned the dataset, and created visualizations to identify key factors influencing house prices.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+**Tech Stack:** Python, Pandas, Matplotlib, Seaborn
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+[🔗 View Project on GitHub](https://github.com/yourusername/melbourne-houses)
+
+---
+
+### Project 2: **Data Wrangling – Preprocessing PhD Dataset**
+**Description:**  
+For this project, I worked with a **PhD dataset** containing over 480,000 entries of students who defended their PhDs in France between 1985 and 2020. My goal was to explore issues like missing or unreliable data, generate graphs to visualize data quality issues, and use the **UpSet** package to analyze missing data patterns.
+
+**Tech Stack:** Python, Pandas, UpSet, Data Cleaning
+
+[🔗 View Project on GitHub](https://github.com/yourusername/phd-data-wrangling)
+
+---
+
+### Project 3: **Dimensional Reduction & Clustering**
+**Description:**  
+This project involved analyzing a **user profile dataset** from a data app to perform **dimensional reduction** and **clustering**. I used **PCA** to visualize quantitative variables and **MCA** to represent qualitative data, as well as applied clustering techniques to group similar profiles based on various features.
+
+**Tech Stack:** Python, Pandas, PCA, MCA, Clustering
+
+[🔗 View Project on GitHub](https://github.com/yourusername/dimensional-reduction-clustering)
+
+---
+
+### Project 4: **Iris Dataset - PCA and Clustering**
+**Description:**  
+In this project, I analyzed the **Iris dataset**, which includes measurements of iris flowers. I used **PCA** to reduce the dimensionality of the dataset and created a **scree plot** to determine the number of dimensions to keep for analysis. I also visualized clusters in the PCA space.
+
+**Tech Stack:** Python, Scikit-learn, PCA
+
+[🔗 View Project on GitHub](https://github.com/yourusername/iris-pca-clustering)
+
+---
+
+### Project 5: **Tinder Messages Analysis**
+**Description:**  
+This project involved analyzing **Tinder conversation data** to identify patterns in message types (e.g., questions, affirmations, politeness). I used **sequence plots** and **heatmaps** to visualize message trends and applied **Traminer clustering** to analyze sequences of messages.
+
+**Tech Stack:** R, Data Visualization, Clustering
+
+[🔗 View Project on GitHub](https://github.com/yourusername/tinder-messages-analysis)
+
+---
+
+### Project 6: **Text Mining – PhD Dissertations**
+**Description:**  
+This project involved processing a dataset of **50 PhD dissertations** in PDF format. I converted the PDFs to text files, then applied **TF-IDF** and **cosine similarity** to assess document similarity. I also created a **forced directed graph** to visualize the strongest correlations between terms in the dissertations.
+
+**Tech Stack:** Python, NLTK, TF-IDF, Cosine Similarity
+
+[🔗 View Project on GitHub](https://github.com/yourusername/phd-text-mining)
+
