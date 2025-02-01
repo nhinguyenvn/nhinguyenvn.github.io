@@ -77,7 +77,7 @@ This project involved analyzing **Tinder conversation data** to identify pattern
 ![Image 20](/assets/img/20.png)  
 ![Image 21](/assets/img/21.png)  
 ![Image 22](/assets/img/22.png)  
-![Image 23](/assets/img/23.png)  
+
 
 [🔗 View Project on GitHub](https://github.com/yourusername/tinder-messages-analysis)
 
@@ -88,10 +88,44 @@ This project involved analyzing **Tinder conversation data** to identify pattern
 This project involved processing a dataset of **50 PhD dissertations** in PDF format. I converted the PDFs to text files, then applied **TF-IDF** and **cosine similarity** to assess document similarity. I also created a **forced directed graph** to visualize the strongest correlations between terms in the dissertations.
 
 **Tech Stack:** Python, NLTK, TF-IDF, Cosine Similarity
-
+![Image 23](/assets/img/23.png)  
 ![Image 24](/assets/img/24.png)  
 ![Image 25](/assets/img/25.png)  
 ![Image 26](/assets/img/26.png)  
 
 [🔗 View Project on GitHub](https://github.com/yourusername/phd-text-mining)
 
+---
+
+### Project 7: **Machine Learning – Classification & Regression**
+**Description:**  
+This project covers various **machine learning tasks**, including classification and regression, applied to different datasets. It involves decision trees, Random Forest, kNN, and regression models for predictive analysis.  
+
+---
+
+#### **Penguins Classification**
+**Goal:** Classify **penguin species** using culmen dimensions. A **decision tree** (depth = 1) was trained to understand feature importance.  
+**Tech Stack:** Python, Scikit-learn, Decision Trees  
+![Image 27](/assets/img/27.png)  
+![Image 28](/assets/img/28.png)  
+
+---
+
+#### **Breast Cancer Detection**
+**Goal:** Predict whether a tumor is **benign or malignant** using classification trees. The project also compares **Random Forest** and **kNN**, evaluating them with **ROC and Precision-Recall curves**.  
+**Tech Stack:** Python, Scikit-learn, Decision Trees, Random Forest, kNN  
+![Image 29](/assets/img/29.png)  
+![Image 30](/assets/img/30.png)  
+![Image 31](/assets/img/31.png)  
+![Image 32](/assets/img/32.png)  
+![Image 33](/assets/img/33.png)
+
+
+---
+
+#### **Baseball Performance Prediction**
+**Goal:** Predict the **number of wins per season** based on baseball performance metrics (e.g., runs scored, OBP, SLG). Regression models were trained, and predictions were visualized with scatterplots.  
+**Tech Stack:** Python, Scikit-learn, Regression, Data Visualization  
+
+![Image 34](/assets/img/34.png)  
+![Image 35](/assets/img/35.png)
