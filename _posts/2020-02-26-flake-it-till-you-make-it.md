@@ -105,7 +105,8 @@ This project covers various **machine learning tasks**, including classification
 
 #### **Penguins Classification**
 **Goal:** Classify **penguin species** using culmen dimensions. A **decision tree** (depth = 1) was trained to understand feature importance.  
-**Tech Stack:** Python, Scikit-learn, Decision Trees  
+**Tech Stack:** Python, Scikit-learn, Decision Trees 
+![Image 26](/assets/img/26.png)  
 ![Image 27](/assets/img/27.png)  
 ![Image 28](/assets/img/28.png)  
 
@@ -118,7 +119,7 @@ This project covers various **machine learning tasks**, including classification
 ![Image 30](/assets/img/30.png)  
 ![Image 31](/assets/img/31.png)  
 ![Image 32](/assets/img/32.png)  
-![Image 33](/assets/img/33.png)
+
 
 
 ---
@@ -127,5 +128,6 @@ This project covers various **machine learning tasks**, including classification
 **Goal:** Predict the **number of wins per season** based on baseball performance metrics (e.g., runs scored, OBP, SLG). Regression models were trained, and predictions were visualized with scatterplots.  
 **Tech Stack:** Python, Scikit-learn, Regression, Data Visualization  
 
+![Image 33](/assets/img/33.png)
 ![Image 34](/assets/img/34.png)  
-![Image 35](/assets/img/35.png)
+
