@@ -28,7 +28,9 @@ For this project, I worked with a **PhD dataset** containing over 480,000 entrie
 
 **Tech Stack:** Python, Pandas, UpSet, Data Cleaning
 ![Image 3](/assets/img/3.png)
+*Create a graph to visualize the distribution of missing data within the dataset.*
 ![Image 4](/assets/img/4.png)
+*Analyze the missing data patterns using the UpSet package.*
 [🔗 View Project on GitHub](https://github.com/yourusername/phd-data-wrangling)
 
 ---
@@ -40,9 +42,13 @@ This project involved analyzing a **user profile dataset** from a data app to pe
 **Tech Stack:** Python, Pandas, PCA, MCA, Clustering, R
 
 ![Image 5](/assets/img/5.png)
+*Represent the different quantitative data using a PCA.*
 ![Image 6](/assets/img/6.png)
+*Represent qualitative variables that make up this dataset in a factorial plan using a MCA.*
 ![Image 7](/assets/img/7.png)
+*Visualize PCA results: Scree plot to show variance explained by each principal component.*
 ![Image 8](/assets/img/8.png)
+*Visualize the clusters in PCA space.*
 
 [🔗 View Project on GitHub](https://github.com/yourusername/dimensional-reduction-clustering)
 
@@ -54,15 +60,25 @@ In this project, I analyzed the **Iris dataset**, which includes measurements of
 
 **Tech Stack:** R, Scikit-learn, PCA
 ![Image 9](/assets/img/9.png)  
+*Represent PCA with Standardization.*
 ![Image 10](/assets/img/10.png)  
-![Image 11](/assets/img/11.png)  
+*Represent these correlations in the form of a correlogram of your choice (eg, with bubbles and colors).*
+![Image 11](/assets/img/11.png) 
+*PCA graph of variables.*
 ![Image 12](/assets/img/12.png)  
+*Use the elbow method on a ”scree plot” to assess how many dimensions to keep in subsequent analyses.*
 ![Image 13](/assets/img/13.png)  
+*Circle of Correlation based on cos2*
 ![Image 14](/assets/img/14.png)  
+*Individuals on Factorial Plane based on cos2*
 ![Image 15](/assets/img/15.png)  
+*K-Means clustering in PCA space*
 ![Image 16](/assets/img/16.png)  
+*Elbow Method*
 ![Image 17](/assets/img/17.png)  
+*Split-Stick Method*
 ![Image 18](/assets/img/18.png) 
+*Silhouette Method*
 
 [🔗 View Project on GitHub](https://github.com/yourusername/iris-pca-clustering)
 
@@ -74,10 +90,13 @@ This project involved analyzing **Tinder conversation data** to identify pattern
 
 **Tech Stack:** R, Data Visualization, Clustering
 ![Image 19](/assets/img/19.png)  
+*Sequence plot.*
 ![Image 20](/assets/img/20.png)  
+*Heat map.*
 ![Image 21](/assets/img/21.png)  
+*Heat map. *
 ![Image 22](/assets/img/22.png)  
-
+*Use traminer to cluster the sequences.*
 
 [🔗 View Project on GitHub](https://github.com/yourusername/tinder-messages-analysis)
 
@@ -89,9 +108,11 @@ This project involved processing a dataset of **50 PhD dissertations** in PDF fo
 
 **Tech Stack:** Python, NLTK, TF-IDF, Cosine Similarity
 ![Image 23](/assets/img/23.png)  
+*Similarity Matrix.*
 ![Image 24](/assets/img/24.png)  
+*Cosine Similarity Distribution.*
 ![Image 25](/assets/img/25.png)  
-![Image 26](/assets/img/26.png)  
+*Forced Directed Graph on top 20 strongest correlations.*
 
 [🔗 View Project on GitHub](https://github.com/yourusername/phd-text-mining)
 
@@ -107,8 +128,11 @@ This project covers various **machine learning tasks**, including classification
 **Goal:** Classify **penguin species** using culmen dimensions. A **decision tree** (depth = 1) was trained to understand feature importance.  
 **Tech Stack:** Python, Scikit-learn, Decision Trees 
 ![Image 26](/assets/img/26.png)  
+*Train a tree of depth 1.*
 ![Image 27](/assets/img/27.png)  
+*Scatter plot.*
 ![Image 28](/assets/img/28.png)  
+*Classification tree of depth 6.*
 
 ---
 
@@ -116,10 +140,13 @@ This project covers various **machine learning tasks**, including classification
 **Goal:** Predict whether a tumor is **benign or malignant** using classification trees. The project also compares **Random Forest** and **kNN**, evaluating them with **ROC and Precision-Recall curves**.  
 **Tech Stack:** Python, Scikit-learn, Decision Trees, Random Forest, kNN  
 ![Image 29](/assets/img/29.png)  
+*Confusion matrix – Random Forest.*
 ![Image 30](/assets/img/30.png)  
+*Confusion matrix – kNN.*
 ![Image 31](/assets/img/31.png)  
+*Display ROC curves and the corresponding AUCs.*
 ![Image 32](/assets/img/32.png)  
-
+*Display a Precision-Recall curve and the corresponding AUC P-R. *
 
 
 ---
@@ -129,5 +156,7 @@ This project covers various **machine learning tasks**, including classification
 **Tech Stack:** Python, Scikit-learn, Regression, Data Visualization  
 
 ![Image 33](/assets/img/33.png)
+*Predict the response on the test data set, and make a scatterplot with predicted data, and actual data.*
 ![Image 34](/assets/img/34.png)  
+*Pairwise Correlation.*
 
