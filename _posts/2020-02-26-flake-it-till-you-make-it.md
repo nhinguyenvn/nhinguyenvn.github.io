@@ -2,7 +2,7 @@
 layout: post
 title: "My Data Science Journey"
 subtitle: "A glimpse into the projects and skills I've developed"
-cover-img: /assets/img/baclground.jpg
+cover-img: /assets/img/background.jpg
 thumbnail-img: /assets/img/portfolio-thumb.png
 share-img: /assets/img/portfolio-cover.jpg
 tags: [data science, projects, Python, R, SQL, Machine Learning]
