@@ -18,7 +18,7 @@ This project involved analyzing real estate data to predict house prices in Melb
 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
 ![Image 1](/assets/img/1.png)
 ![Image 2](/assets/img/2.png)
-[🔗 View Project on GitHub](https://github.com/yourusername/melbourne-houses)
+
 
 ---
 
@@ -31,7 +31,7 @@ For this project, I worked with a **PhD dataset** containing over 480,000 entrie
 *Create a graph to visualize the distribution of missing data within the dataset.*
 ![Image 4](/assets/img/4.png)
 *Analyze the missing data patterns using the UpSet package.*
-[🔗 View Project on GitHub](https://github.com/yourusername/phd-data-wrangling)
+
 
 ---
 
@@ -50,7 +50,7 @@ This project involved analyzing a **user profile dataset** from a data app to pe
 ![Image 8](/assets/img/8.png)
 *Visualize the clusters in PCA space.*
 
-[🔗 View Project on GitHub](https://github.com/yourusername/dimensional-reduction-clustering)
+
 
 ---
 
@@ -80,7 +80,7 @@ In this project, I analyzed the **Iris dataset**, which includes measurements of
 ![Image 18](/assets/img/18.png) 
 *Silhouette Method*
 
-[🔗 View Project on GitHub](https://github.com/yourusername/iris-pca-clustering)
+
 
 ---
 
@@ -98,7 +98,7 @@ This project involved analyzing **Tinder conversation data** to identify pattern
 ![Image 22](/assets/img/22.png)  
 *Use traminer to cluster the sequences.*
 
-[🔗 View Project on GitHub](https://github.com/yourusername/tinder-messages-analysis)
+
 
 ---
 
@@ -114,7 +114,7 @@ This project involved processing a dataset of **50 PhD dissertations** in PDF fo
 ![Image 25](/assets/img/25.png)  
 *Forced Directed Graph on top 20 strongest correlations.*
 
-[🔗 View Project on GitHub](https://github.com/yourusername/phd-text-mining)
+
 
 ---
 
@@ -146,7 +146,7 @@ This project covers various **machine learning tasks**, including classification
 ![Image 31](/assets/img/31.png)  
 *Display ROC curves and the corresponding AUCs.*
 ![Image 32](/assets/img/32.png)  
-*Display a Precision-Recall curve and the corresponding AUC P-R. *
+*Display a Precision-Recall curve and the corresponding AUC P-R.*
 
 
 ---
