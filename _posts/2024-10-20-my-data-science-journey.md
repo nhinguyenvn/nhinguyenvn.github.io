@@ -3,7 +3,7 @@ layout: post
 title: "My Data Science Journey"
 subtitle: "A glimpse into the projects and skills I've developed"
 cover-img: /assets/img/background.png
-thumbnail-img: /assets/img/portfolio-thumb.png
+thumbnail-img: assets/img/Hard Working Work From Home GIF by DINOSALLY.gif
 share-img: /assets/img/portfolio-cover.jpg
 tags: [data science, projects, Python, R, SQL, Machine Learning]
 author: Nhi NGUYEN
