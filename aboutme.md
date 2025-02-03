@@ -10,4 +10,4 @@ Hi! I'm Nhi NGUYEN, a Data Science student at CY Tech with a passion for data an
 
 Currently, I am looking for a 4–5 month internship starting in April 2025, where I can apply my skills, contribute to real-world projects, and continue learning in a professional environment.
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/nhi-nguyen-vn) or check out my [GitHub]([https://github.com/yourusername](https://github.com/nhinguyenvn)) to see my work!
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/nhi-nguyen-vn) or check out my [GitHub]([https://github.com/nhinguyenvn]) to see my work!
